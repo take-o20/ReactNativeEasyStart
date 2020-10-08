@@ -47,6 +47,15 @@ You should use command line first, because 'main.jsbundle does not exist. ' erro
 ```
 npx react-native run-ios
 ```
+# Image
+
+![login](https://user-images.githubusercontent.com/38968851/95518585-55c13280-09fe-11eb-8927-89acf583c659.png)
+![home](https://user-images.githubusercontent.com/38968851/95518588-5659c900-09fe-11eb-8333-3963316ab117.png)
+![setting](https://user-images.githubusercontent.com/38968851/95518590-56f25f80-09fe-11eb-9c5d-26d9d8fa5870.png)
+![drink](https://user-images.githubusercontent.com/38968851/95518591-578af600-09fe-11eb-85af-bb184de8fdeb.png)
+![coin](https://user-images.githubusercontent.com/38968851/95518592-578af600-09fe-11eb-8507-ae9607a62571.png)
+![analysis](https://user-images.githubusercontent.com/38968851/95518593-58238c80-09fe-11eb-8bc9-82b6a66c6863.png)
+
 
 # This project is based on my app. If you like download my app!!
 
