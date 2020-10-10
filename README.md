@@ -1,5 +1,9 @@
 # Description
 
+```
+git clone https://github.com/take-o20/ReactNativeEasyStart.git
+```
+
 I made this repository for making easier common forms of apps.  
 Feel free to create your own apps based on this repository.
 So if you want to see it as a sample, please skip steps 1 and 2 below.
